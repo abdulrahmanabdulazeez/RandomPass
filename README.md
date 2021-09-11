@@ -20,11 +20,11 @@ g++ RandPassGen.cpp -o RandPassGen
 ./RandPassGen
 ```
 # My Contact
-```
-You can reach me through this facebook link:
-*(https://web.facebook.com/abdulrahman.abdulazeez.5243/)
-Please do not forget to leave a star!🙏😁
-```
+
+* You can reach me through this facebook link:
+ https://web.facebook.com/abdulrahman.abdulazeez.5243/
+* Please do not forget to leave a star!🙏😁
+
 
 
 
