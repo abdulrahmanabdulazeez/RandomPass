@@ -2,9 +2,9 @@
 ```
 This is an advanced random password generator 
 which allows you specify reasons for creating 
-the password and stores stores the generated password on
-the reason specified as a html file allowing you to check on 
-it at anytime.
+the password and stores the generated password
+on your desktop as the reason specified as a html 
+file allowing you to check on it at anytime.
 ```
 # Version
 ```
